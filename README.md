@@ -47,18 +47,26 @@ Strategic Insights for the Government via Webpage:
 1.	Data Collection:
 
 The integration of this app with our web platform presents an array of opportunities for the government to collect valuable data, enabling better-informed decision-making. This data encompasses a range of critical parameters, including:
+
 Usage Duration: The app records the amount of time spent at each charging station, allowing the government to understand the average charging duration and tailor services accordingly.
+
 Utilization Rate: By tracking usage patterns, such as hours of operation and frequency of charging sessions, we can determine the popularity of specific charging spots. This insight aids in optimizing resource allocation.
+
 EV registration data: The platform captures EV registration data, allowing for accurate tracking of the EV market's growth and trends. This information facilitates the tracking of specific charging activities associated with each EV, contributing to a comprehensive understanding of user behaviour. 
+
 Power Grid Load: Real-time information on power grid loads is seamlessly integrated into the web platform. This data informs the government's strategy for evenly distributing EV charging locations while mitigating potential grid overload.
 
 
 2.	Simulation and Planning:
-•	Using the data collected, the system predicts the number of EV charging stations required in various suburbs based on road networks and future EV registration projections.
-•	The exact locations of these stations are refined through user interaction and engagement. 
-•	This data will be processed to generate a heatmap, grid map, and simulation map to visualize charging patterns and identify popular charging spots.
+   
+Using the data collected, the system predicts the number of EV charging stations required in various suburbs based on road networks and future EV registration projections.
 
-3.	Charging Station Radius Calculation:
+The exact locations of these stations are refined through user interaction and engagement.
+
+This data will be processed to generate a heatmap, grid map, and simulation map to visualize charging patterns and identify popular charging spots.
+
+4.	Charging Station Radius Calculation:
+   
 By leveraging battery capacity estimates, and a wide range of other factors to ensure precision and effectiveness, presented below, we determined the optimal charging station radius to ensure adequate coverage while minimizing infrastructure costs.
 •	Population Density: Tailoring radius based on local population density guarantees efficient coverage for higher demand areas.
 •	EV Numbers: Adapting radius according to EV density ensures adequate charging access for growing user numbers.
