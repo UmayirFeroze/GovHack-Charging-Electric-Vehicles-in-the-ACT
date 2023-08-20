@@ -69,7 +69,7 @@ The exact locations of these stations are refined through user interaction and e
 
 This data will be processed to generate a heatmap, grid map, and simulation map to visualize charging patterns and identify popular charging spots.
 
-4.	Charging Station Radius Calculation:
+3.	Charging Station Radius Calculation:
    
 By leveraging battery capacity estimates, and a wide range of other factors to ensure precision and effectiveness, presented below, we determined the optimal charging station radius to ensure adequate coverage while minimizing infrastructure costs.
 
