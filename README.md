@@ -1,4 +1,5 @@
 Strategy:
+
 As Canberra strives to establish a robust electric vehicle (EV) charging infrastructure and achieve the target of 180 stations by 2025, a data-driven approach is proposed. This report outlines strategic measures tailored to Canberra's unique landscape, including strategic placement, proximity clustering, data-driven decision-making, and tailored charging solutions. By implementing these strategies, the city can efficiently distribute charging stations, cater to diverse user needs, and accelerate EV adoption.
 
 To address Canberra's evolving EV landscape, this report presents a comprehensive strategy for the distribution of EV charging stations. By analysing population density, commuting patterns, and driving habits, we aim to ensure accessible and strategically located charging facilities that promote the sustainable growth of electric vehicles in the city.
