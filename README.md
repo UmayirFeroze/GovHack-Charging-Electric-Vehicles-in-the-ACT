@@ -87,6 +87,13 @@ By leveraging battery capacity estimates, and a wide range of other factors to e
 
 Mobile Application Features:
 ------------
+<img width="168" alt="Screenshot 2023-08-20 at 4 30 46 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/ca4492b0-ec96-45cc-84b5-41ca28de136a">
+<img width="166" alt="Screenshot 2023-08-20 at 4 31 05 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/7e80f3ae-1ceb-4531-96d7-dc685a6596ab">
+<img width="163" alt="Screenshot 2023-08-20 at 4 31 16 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/bc5bf933-a7a5-400e-99ff-78c83a398875">
+<img width="166" alt="Screenshot 2023-08-20 at 4 31 28 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/05dc6fe8-c1a0-4246-9d68-9520ee2ba832">
+<img width="163" alt="Screenshot 2023-08-20 at 4 31 36 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/a83ca2d6-ba15-4c8f-ab64-60d9a66c7af0">
+
+
 Data Collection for Government: This serves as a valuable tool for the government to collect data on EV charging patterns, popular charging locations, and times when charging demand is highest. This data can be used to optimize infrastructure planning and policy decisions related to electric mobility. 
 
 Convenient Charging Access: Users can easily locate and book charging stations through the app. Real-time information about charging station availability, compatibility, and pricing is provided, allowing users to plan their charging sessions effectively. 
