@@ -92,8 +92,11 @@ Mobile Application Features:
 <img width="349" alt="Screenshot 2023-08-20 at 4 38 44 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/21b49806-10c3-4cff-8a51-3705b25f64e5">
 <img width="349" alt="Screenshot 2023-08-20 at 4 38 53 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/51e712cc-f2b2-4f58-a548-3125539fd0e8">
 <img width="349" alt="Screenshot 2023-08-20 at 4 38 58 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/d8f1189e-e10b-4e24-b89e-5dc5e2f91f47">
-<img width="349" alt="Screenshot 2023-08-20 at 4 39 08 pm" src=<img width="349" alt="Screenshot 2023-08-20 at 4 39 16 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/0d235221-fdb7-411f-aa3b-096b57c19ec5">
-"https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/873ebc34-0294-45c9-aa7d-6e70c61cda7b">
+
+
+
+
+
 <img width="349" alt="Screenshot 2023-08-20 at 4 39 16 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/93c67df8-df10-453f-9a1f-488e55dcec5b">
 <img width="349" alt="Screenshot 2023-08-20 at 4 39 21 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/1ec18ab0-0205-4b1c-9e88-81511328e821">
 <img width="349" alt="Screenshot 2023-08-20 at 4 39 31 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/12835010<img width="349" alt="Screenshot 2023-08-20 at 4 39 36 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/1ad3962b-5e4b-4527-a0aa-642e10ef8cb5">
