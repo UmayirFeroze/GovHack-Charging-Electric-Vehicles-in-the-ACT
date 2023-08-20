@@ -47,11 +47,10 @@ Strategic Insights for the Government via Webpage:
 1.	Data Collection:
 
 The integration of this app with our web platform presents an array of opportunities for the government to collect valuable data, enabling better-informed decision-making. This data encompasses a range of critical parameters, including:
-
-•	Usage Duration: The app records the amount of time spent at each charging station, allowing the government to understand the average charging duration and tailor services accordingly.
-•	Utilization Rate: By tracking usage patterns, such as hours of operation and frequency of charging sessions, we can determine the popularity of specific charging spots. This insight aids in optimizing resource allocation.
-•	EV registration data: The platform captures EV registration data, allowing for accurate tracking of the EV market's growth and trends. This information facilitates the tracking of specific charging activities associated with each EV, contributing to a comprehensive understanding of user behaviour. 
-•	Power Grid Load: Real-time information on power grid loads is seamlessly integrated into the web platform. This data informs the government's strategy for evenly distributing EV charging locations while mitigating potential grid overload.
+Usage Duration: The app records the amount of time spent at each charging station, allowing the government to understand the average charging duration and tailor services accordingly.
+Utilization Rate: By tracking usage patterns, such as hours of operation and frequency of charging sessions, we can determine the popularity of specific charging spots. This insight aids in optimizing resource allocation.
+EV registration data: The platform captures EV registration data, allowing for accurate tracking of the EV market's growth and trends. This information facilitates the tracking of specific charging activities associated with each EV, contributing to a comprehensive understanding of user behaviour. 
+Power Grid Load: Real-time information on power grid loads is seamlessly integrated into the web platform. This data informs the government's strategy for evenly distributing EV charging locations while mitigating potential grid overload.
 
 
 2.	Simulation and Planning:
