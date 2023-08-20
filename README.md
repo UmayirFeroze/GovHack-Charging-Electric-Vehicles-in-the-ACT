@@ -101,7 +101,7 @@ Mobile Application Features:
 <img width="349" alt="Screenshot 2023-08-20 at 4 39 21 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/1ec18ab0-0205-4b1c-9e88-81511328e821">
 <img width="349" alt="Screenshot 2023-08-20 at 4 39 31 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/12835010<img width="349" alt="Screenshot 2023-08-20 at 4 39 36 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/1ad3962b-5e4b-4527-a0aa-642e10ef8cb5">
 6/6956a5f1-d79b-4f9f-a69c-aba625f83e6e">
-![Uploading Screenshot 2023-08-20 at 4.39.36 pm.png…]()
+
 
 Data Collection for Government: This serves as a valuable tool for the government to collect data on EV charging patterns, popular charging locations, and times when charging demand is highest. This data can be used to optimize infrastructure planning and policy decisions related to electric mobility. 
 
