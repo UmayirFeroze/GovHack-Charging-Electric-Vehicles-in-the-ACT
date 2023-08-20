@@ -98,7 +98,7 @@ The proposed solution brings several tangible benefits:
 
 
 
-Our data-driven solution challenges the notion that more data is always better. By leveraging a targeted dataset, we can optimize EV charging infrastructure, promote EV adoption, and provide the government with informed insights for future planning. This marks a significant step towards creating a sustainable and efficient electric vehicle ecosystem that benefits both users and the environment.
+Our data-driven solution challenges the notion that more data is always better. By leveraging a targeted dataset, we can optimize EV charging infrastructure, promote EV adoption, and provide the government with informed insights for future planning. This marks a significant step towards creating a sustainable and efficient electric vehicle ecosystem that benefits both users and the government.
 
 
 
