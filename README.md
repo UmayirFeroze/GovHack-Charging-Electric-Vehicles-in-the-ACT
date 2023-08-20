@@ -70,7 +70,6 @@ By leveraging battery capacity estimates, and a wide range of other factors to e
 Mobile Application Features:
 ------------
 This platform offers two modes of charging: Full-time and Part-time, each with different pricing structures. The goal is to encourage the adoption of EVs by offering incentives and discounts to new app users and EV owners.
-Data Collection for Government: 
 ----------- serves as a valuable tool for the government to collect data on EV charging patterns, popular charging locations, and times when charging demand is highest. This data can be used to optimize infrastructure planning and policy decisions related to electric mobility.
 Convenient Charging Access: Users can easily locate and book charging stations through the app. Real-time information about charging station availability, compatibility, and pricing is provided, allowing users to plan their charging sessions effectively.
 Charging Modes and Pricing: The platform offers two charging modes:
