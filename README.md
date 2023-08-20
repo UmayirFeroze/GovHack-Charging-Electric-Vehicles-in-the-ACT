@@ -43,7 +43,9 @@ The app serves as a bridge between citizens and the EV charging ecosystem. Users
 
 Strategic Insights for the Government via Webpage:
 -------
-<img width="183" alt="Screenshot 2023-08-20 at 4 23 06 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/a6f41d26-214f-4199-bdac-b898471251cc">
+
+<img width="375" alt="Screenshot 2023-08-20 at 4 23 19 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/71fc52f0-e453-4968-8846-b388c9481c99">
+<img width="374" alt="Screenshot 2023-08-20 at 4 28 20 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/10809913-5290-4efb-88c0-ea895e7a1edc">
 
 
 1.	Data Collection:
