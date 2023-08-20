@@ -1,4 +1,4 @@
-<img width="349" alt="Screenshot 2023-08-20 at 4 39 40 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/7c0173c9-ed4d-4432-a4d6-47e27ee0ceb3"><img width="349" alt="Screenshot 2023-08-20 at 4 39 31 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/c22c279d-86ba-40d2-aa18-dcbdbe2ed9da">Introduction:
+Introduction:
 ---------
 -------------
 As Canberra strives to establish a robust electric vehicle (EV) charging infrastructure and achieve the target of 180 stations by 2025, a data-driven approach is proposed. This report outlines strategic measures tailored to Canberra's unique landscape, including strategic placement, proximity clustering, data-driven decision-making, and tailored charging solutions. By implementing these strategies, the city can efficiently distribute charging stations, cater to diverse user needs, and accelerate EV adoption.
