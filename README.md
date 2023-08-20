@@ -52,6 +52,7 @@ Convenient Charging Access: Users can easily locate and book charging stations t
 Charging Modes and Pricing: The platform offers two charging modes:
 1.	Full-time Charging: Users can reserve a charging station for an extended period, suitable for overnight or extended stays. This mode offers competitive pricing for users who need a consistent and stable charging source.
 2.	Part-time Charging: Designed for shorter charging sessions during the day, this mode offers slightly higher prices due to the flexibility it provides.
+   
 Discounts for New Users and EV Owners: To incentivize more people to adopt EVs and use the app, special discounts and offers are provided to new app users and EV owners. This can include reduced charging rates for a limited time or additional benefits for loyal users.
 Promotion of EV Adoption: The app contributes to the broader goal of increasing the adoption of electric vehicles. By making charging more accessible and cost-effective, users may be encouraged to switch to electric vehicles, thereby contributing to sustainability efforts.
 User-Friendly Interface: The app's interface is designed to be user-friendly, providing clear information about charging station locations, availability, pricing, and discounts. Users can easily navigate through the app and make bookings with minimal hassle.
