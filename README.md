@@ -92,15 +92,13 @@ Mobile Application Features:
 <img width="349" alt="Screenshot 2023-08-20 at 4 38 44 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/21b49806-10c3-4cff-8a51-3705b25f64e5">
 <img width="349" alt="Screenshot 2023-08-20 at 4 38 53 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/51e712cc-f2b2-4f58-a548-3125539fd0e8">
 <img width="349" alt="Screenshot 2023-08-20 at 4 38 58 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/d8f1189e-e10b-4e24-b89e-5dc5e2f91f47">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 08 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/b2a27804-c460-417a-9cbd-472f002194b7">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 16 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/217397eb-54e7-4cb8-bdd7-7d5e764e1e65">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 21 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/6a0fe182-4ddd-4f24-b398-1f8b66197730">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 31 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/bb23b27f-5794-4ee8-8901-a9d737f64f5a">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 36 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/67148d8a-1d87-4b87-9be6-b62b4c742bea">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 40 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/919944eb-fdcd-47df-be75-bc1c9754fb00">
 
-
-
-
-
-<img width="349" alt="Screenshot 2023-08-20 at 4 39 16 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/93c67df8-df10-453f-9a1f-488e55dcec5b">
-<img width="349" alt="Screenshot 2023-08-20 at 4 39 21 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/1ec18ab0-0205-4b1c-9e88-81511328e821">
-<img width="349" alt="Screenshot 2023-08-20 at 4 39 31 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/12835010<img width="349" alt="Screenshot 2023-08-20 at 4 39 36 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/1ad3962b-5e4b-4527-a0aa-642e10ef8cb5">
-6/6956a5f1-d79b-4f9f-a69c-aba625f83e6e">
 
 
 Data Collection for Government: This serves as a valuable tool for the government to collect data on EV charging patterns, popular charging locations, and times when charging demand is highest. This data can be used to optimize infrastructure planning and policy decisions related to electric mobility. 
