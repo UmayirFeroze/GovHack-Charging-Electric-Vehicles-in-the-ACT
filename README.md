@@ -1,4 +1,4 @@
-Introduction:
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 40 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/7c0173c9-ed4d-4432-a4d6-47e27ee0ceb3"><img width="349" alt="Screenshot 2023-08-20 at 4 39 31 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/c22c279d-86ba-40d2-aa18-dcbdbe2ed9da">Introduction:
 ---------
 -------------
 As Canberra strives to establish a robust electric vehicle (EV) charging infrastructure and achieve the target of 180 stations by 2025, a data-driven approach is proposed. This report outlines strategic measures tailored to Canberra's unique landscape, including strategic placement, proximity clustering, data-driven decision-making, and tailored charging solutions. By implementing these strategies, the city can efficiently distribute charging stations, cater to diverse user needs, and accelerate EV adoption.
@@ -87,12 +87,18 @@ By leveraging battery capacity estimates, and a wide range of other factors to e
 
 Mobile Application Features:
 ------------
-<img width="168" alt="Screenshot 2023-08-20 at 4 30 46 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/ca4492b0-ec96-45cc-84b5-41ca28de136a">
-<img width="166" alt="Screenshot 2023-08-20 at 4 31 05 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/7e80f3ae-1ceb-4531-96d7-dc685a6596ab">
-<img width="163" alt="Screenshot 2023-08-20 at 4 31 16 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/bc5bf933-a7a5-400e-99ff-78c83a398875">
-<img width="166" alt="Screenshot 2023-08-20 at 4 31 28 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/05dc6fe8-c1a0-4246-9d68-9520ee2ba832">
-<img width="163" alt="Screenshot 2023-08-20 at 4 31 36 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/a83ca2d6-ba15-4c8f-ab64-60d9a66c7af0">
 
+<img width="349" alt="Screenshot 2023-08-20 at 4 38 24 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/577842cc-3fcd-4329-bf89-10b633036949">
+<img width="349" alt="Screenshot 2023-08-20 at 4 38 44 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/21b49806-10c3-4cff-8a51-3705b25f64e5">
+<img width="349" alt="Screenshot 2023-08-20 at 4 38 53 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/51e712cc-f2b2-4f58-a548-3125539fd0e8">
+<img width="349" alt="Screenshot 2023-08-20 at 4 38 58 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/d8f1189e-e10b-4e24-b89e-5dc5e2f91f47">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 08 pm" src=<img width="349" alt="Screenshot 2023-08-20 at 4 39 16 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/0d235221-fdb7-411f-aa3b-096b57c19ec5">
+"https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/873ebc34-0294-45c9-aa7d-6e70c61cda7b">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 16 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/93c67df8-df10-453f-9a1f-488e55dcec5b">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 21 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/1ec18ab0-0205-4b1c-9e88-81511328e821">
+<img width="349" alt="Screenshot 2023-08-20 at 4 39 31 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/12835010<img width="349" alt="Screenshot 2023-08-20 at 4 39 36 pm" src="https://github.com/UmayirFeroze/GovHack-Charging-Electric-Vehicles-in-the-ACT/assets/128350106/1ad3962b-5e4b-4527-a0aa-642e10ef8cb5">
+6/6956a5f1-d79b-4f9f-a69c-aba625f83e6e">
+![Uploading Screenshot 2023-08-20 at 4.39.36 pm.png…]()
 
 Data Collection for Government: This serves as a valuable tool for the government to collect data on EV charging patterns, popular charging locations, and times when charging demand is highest. This data can be used to optimize infrastructure planning and policy decisions related to electric mobility. 
 
