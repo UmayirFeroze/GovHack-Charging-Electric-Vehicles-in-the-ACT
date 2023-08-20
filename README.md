@@ -68,11 +68,17 @@ This data will be processed to generate a heatmap, grid map, and simulation map 
 4.	Charging Station Radius Calculation:
    
 By leveraging battery capacity estimates, and a wide range of other factors to ensure precision and effectiveness, presented below, we determined the optimal charging station radius to ensure adequate coverage while minimizing infrastructure costs.
+
 •	Population Density: Tailoring radius based on local population density guarantees efficient coverage for higher demand areas.
+
 •	EV Numbers: Adapting radius according to EV density ensures adequate charging access for growing user numbers.
+
 •	Street Congestion: Considering traffic flow informs radius adjustments for areas with busy streets.
+
 •	Grid Allocation (Hotspots): Integrating grid allocation data prevents overloads and optimizes station placement.
+
 •	Charger Quantity: Radius calculations are influenced by the number of chargers, enhancing accessibility.
+
 •	This comprehensive method optimizes resources, enhances user convenience, sustains the grid, and accommodates future growth.
 
 Mobile Application Features:
