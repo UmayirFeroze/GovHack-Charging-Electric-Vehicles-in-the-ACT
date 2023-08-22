@@ -1,0 +1,7 @@
+datasets used for EV:
+
+https://www.data.act.gov.au/Transport/Total-vehicles-registered-in-the-ACT/x4hp-vihn
+https://www.treasury.act.gov.au/snapshot/demography/act
+https://actmapi-actgov.opendata.arcgis.com/datasets/ACTGOV::electric-vehicles-registration-number/about
+https://actmapi-actgov.opendata.arcgis.com/search?tags=Transport
+https://profile.id.com.au/act#:~:text=Welcome%20to%20the%20Australian%20Capital,state%20of%20New%20South%20Wales.
