@@ -1,0 +1,115 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2707
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ---\
+output:\
+  pdf_document: default\
+  html_document: default\
+---\
+\{r 1\}\
+library(tree)\
+library(rpart)\
+library(class)\
+library(dplyr)\
+library(rpart.plot)\
+dataset <- read.csv("C:\\\\Users\\\\6asol\\\\OneDrive\\\\Masa\'fcst\'fc\\\\actregistered.csv", comment.char = "#", na.strings = c("-all-", "NA", "N/A", ""))\
+dataset <- na.omit(dataset)\
+\
+allreg <- read.csv("C:\\\\Users\\\\6asol\\\\OneDrive\\\\Masa\'fcst\'fc\\\\Total_vehicles_registered_in_the_ACT.csv", comment.char = "#", na.strings = c("-all-", "NA", "N/A", ""))\
+allreg <- na.omit(allreg)\
+\
+\
+currentdate <- allreg[allreg$Date == as.Date ("2023-07-01"), ]\
+totalevcar <- sum(currentdate[currentdate$Motive.power == "Electric", ]$Count)\
+##no of total EV car\
+\
+evreg <- read.csv("C:\\\\Users\\\\6asol\\\\OneDrive\\\\Masa\'fcst\'fc\\\\Electric_Vehicles_Registration_Number.csv", comment.char = "#", na.strings = c("-all-", "NA", "N/A", ""))\
+evreg <- na.omit(evreg) #totalevcar\
+\
+\
+evtc <- read.csv("C:\\\\Users\\\\6asol\\\\OneDrive\\\\Masa\'fcst\'fc\\\\Electric_Vehicles_Total_Chargers.csv", comment.char = "#", na.strings = c("-all-", "NA", "N/A", ""))\
+evtc <- na.omit(evtc) #totalev chargings\
+\
+\
+\
+\
+\
+Inaccurate_Total_Cars <- sum(evreg$FY21)\
+scaling_factor <- totalevcar / Inaccurate_Total_Cars\
+\
+# Update Inaccurate_Cars values proportionally\
+evreg$FYNOW <- evreg$FY21 * scaling_factor\
+\
+# View the updated dataset\
+print(evreg)\
+\
+########!!!! evreg$FYNOW equals current no. cars proportionately\
+\
+totalevcar\
+totalcharger <- 181\
+\
+# Calculate the scaling factor for charging spots\
+scalingcharger <- totalcharger / totalevcar\
+\
+# Calculate the suggested number of electric car chargers for each neighborhood\
+chargers <- chargers %>%\
+  mutate(SuggestedChargers = (evreg$FYNOW  * scalingcharger))\
+\
+# Print the updated dataset with the suggested number of chargers\
+  chargers$roundSuggested <- (round(chargers$SuggestedChargers))\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+evreg <- read.csv("C:\\\\Users\\\\6asol\\\\OneDrive\\\\Masa\'fcst\'fc\\\\evreg.csv", comment.char = "#", na.strings = c("-all-", "NA", "N/A", ""))\
+evreg <- na.omit(evreg)\
+sum(4)\
+\
+evreg21 <- sum(evreg[,5])\
+evreg22 <- sum(evreg[,6])\
+evreg23 <- sum(evreg[,7])\
+evreg24 <- sum(evreg[,8])\
+evreg25 <- sum(evreg[,9])\
+\
+ppl21to25 <- c(454501, 457565, 465510, 474180, 481455)\
+\
+x <- c(evreg21,evreg22,evreg23,evreg24,evreg25)\
+y <- c(2021:2025)\
+plot(y, x, main = "Growth of Electric Vehicles in ACT",\
+    xlab = "Year", ylab = "Number of Electric Vehicles",\
+    type = "l", col = "red",\
+    lwd = 3)\
+grid(nx = NULL, ny = NULL,\
+     lty = 2,      # Grid line type\
+     col = "gray", # Grid line color\
+     lwd = 1)      # Grid line width\
+\
+\
+plot (y, ppl21to25, main = "Population Growth in ACT",\
+    xlab = "Year", ylab = "Persons",\
+    type = "l", col = "blue",\
+    lwd = 3)}
